@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說略教誡經
+#+DATE: 2015-08-30 20:21:11.563594
+#+PROPERTY: JUAN 0
